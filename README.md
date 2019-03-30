@@ -2,6 +2,7 @@
 CMPE 209 Network Security Project 
 
 Description:
+
 •	Technology stack - NLS-KDD dataset, Python, Scikit-learn, Feature selection: Anova-F test and Recursive Feature Elimination (RFE), Build Model: Random Forest Regression,
 
 •	This project deals with Design and Development of IDS for testing intrusion against back dos, buffer overflow, ftp write, imap, nmap probe, Smurf dos, IPsweep probe, teardrop dos etc. Accuracy achieved is 99.7%.
