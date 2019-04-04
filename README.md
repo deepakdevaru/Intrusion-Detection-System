@@ -21,5 +21,5 @@ Step 4: Build the model:
 Decision tree model is built.
 
 Step 5: Prediction & Evaluation (validation):
-Using the test data to make predictions of the model. Multiple scores are considered such as:accuracy score, recall, f-measure, confusion matrix. perform a 10-fold cross-validation.
+Using the test data to make predictions of the model. Multiple scores are considered such as:accuracy score,confusion matrix. perform a 10-fold cross-validation.
 
