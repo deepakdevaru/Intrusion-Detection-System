@@ -5,7 +5,7 @@ Description:
 
 •	Technology stack - NLS-KDD dataset, Python, Scikit-learn, Feature selection: Anova-F test and Recursive Feature Elimination (RFE), Build Model: Random Forest Regression,
 
-•	This project deals with Design and Development of IDS for testing intrusion against back dos, buffer overflow, ftp write, imap, nmap probe, Smurf dos, IPsweep probe, teardrop dos etc. Accuracy achieved is 99.7%.
+•	This project deals with Design and Development of IDS for testing intrusion against back dos, buffer overflow, ftp write, imap, nmap probe, Smurf dos, IPsweep probe, teardrop dos etc. Accuracy achieved is 87%.
 
 This work aims to perform the work done by Nkiama, Said and Saidu (2016) in: https://thesai.org/Downloads/Volume7No4/Paper_19-A_Subset_Feature_Elimination_Mechanism_for_Intrusion_Detection_System.pdf
 
